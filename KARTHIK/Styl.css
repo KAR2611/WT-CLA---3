@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+    margin-top: 90px;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    line-height: 90px;
+    background-color: #333;
+}
+
+header * {
+    display: inline;
+    height: 90px;
+}
+
+header ul {
+    padding: 0;
+}
+
+header li {
+    margin-left: 50px;
+}
+
+section {
+    justify-content: center;
+    text-align: center;
+}
+#Personal Information .profile-img {
+    width: 200px;
+}
+
+footer {
+    text-align: center;
+    padding: 90px;
+}
+body {
+    margin: 0;
+    margin-top: 70px;
+    font-family: Fantasy;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    line-height: 90px;
+    background-color: #333;
+}
+
+header * {
+    display: inline;
+    height: 90px;
+}
+
+header ul {
+    padding: 0;
+}
+
+header li {
+    margin-left: 50px;
+}
+
+section {
+    justify-content: center;
+    text-align: center;
+}
+
+#Personal Information .profile-img {
+    width:200px;
+    border-radius: 10%
+}
+
+footer {
+    text-align: center;
+    padding: 90px;
+}
+
+
+
+#Personal Information h1 {
+    font-size: 10em;
+}
+
+section h2 {
+    font-size: 3.5em;
+}
+
+section h3 {
+    font-size: 1.5em;
+}
+
+section h4 {
+   font-size: 1.5em
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+body {
+    margin: 0;
+    margin-top: 90px;
+    font-family: Fantasy;
+}
+
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    line-height: 90px;
+    background-color: #333;
+}
+
+header * {
+    display: inline;
+    height: 70px;
+}
+
+header ul {
+    padding: 0;
+}
+
+header li {
+    margin-left: 70px;
+}
+section {
+    justify-content: center;
+    text-align: center;
+}
+
+#Personal Information .profile-img {
+    width: 200px;
+    border-radius: 10%;
+    background-size: cover;
+}
+
+footer {
+    text-align: center;
+    padding: 70px;
+}
+
+#Personal Information h1 {
+    font-size: 10em;
+}
+
+section h2 {
+    font-size: 3.5em;
+}
+
+section h3 {
+    font-size: 1.5em;
+}
+
+section h4 {
+     font-size: 1.5em;
+}
+
+header a 5
+    text-decoration: none;
+    color: black;
+}
+
+
+#Personal Information {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('color.jpg');
+}
+
+#Details {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('color.jpg');
+}
+
+#Contact {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('color.jpg');
+}
